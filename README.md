@@ -7,7 +7,7 @@
 * abierto tu usuario en [gamma.app](https://gamma.app/)
 * abierto tu usuario de [Github.com](https://github.com/)
 
-## Educación del Preceptor en Misionres - República Argentina. 
+## Educación del Preceptor en Misiones - República Argentina. 
 _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma de presentar y su armado, es el resultado de aplicar todo lo aprendido e integrado._
 
 ---
@@ -54,7 +54,7 @@ _Debes respetar la siguiente consigna_
 > * Sección 2, Indice 
 > * Sección 3, Cuerpo del documento
 > * Sección 4, Tabla (PAGINA HORIZONTAL)
-> * Sección 5, Resto del documentoCuerpo del documento
+> * Sección 5, Resto del documento
 
 * Encabezado, pie de pagina, Notas al pie
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
