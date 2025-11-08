@@ -1,4 +1,4 @@
-# EXAMEN FINAL JULIO 2025 LIBRES
+# Simulador Examen Final Informática 2025
 ## PRECEPTOR
 
 **Para proyecto es necesario tener:**
