@@ -68,8 +68,8 @@ _Debes respetar la siguiente consigna_
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
-      # EXAMEN FINAL JULIO-25
-      # LIBRES
+      # SIMULADOR EXAMEN FINAL 2025
+      # LIBRES/REGULARES
       ## PRECEPTOR
       
       ## Educación del Preceptor en Misiones - República Argentina.
@@ -84,6 +84,6 @@ _Debes respetar la siguiente consigna_
       ```
  
  **Paso 7:** Copiar y pegar el link del repositorio Github en en siguiente formulario
-    * [[Pulsa aquí para completar el formulario](https://forms.gle/8tE7x3wshBgbNofZA)]
+    * [[Pulsa aquí para completar el formulario](https://forms.gle/M4CNHsq3QrNMB7ao6)]
 
 
