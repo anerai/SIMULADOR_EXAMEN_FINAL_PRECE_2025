@@ -19,7 +19,7 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 
 ![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/portada.PNG "PORTADA")
 
-![alt text](hhttps://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/indice.PNG "INDICE") 
+![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/indice.PNG "INDICE") 
 
 ![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/cuerpo.PNG "CUERPO DEL DOCUMENTO") 
 
