@@ -17,13 +17,13 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 **Recuerda:**
 * Saltos de secciones y paginas más importantes. 
 
-![alt text](https://github.com/hcgtech/07.25_EX_FN_PRECE_REG/blob/main/images/portada.PNG "PORTADA")
+![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/portada.PNG "PORTADA")
 
-![alt text](https://github.com/hcgtech/07.25_EX_FN_PRECE_REG/blob/main/images/indice.PNG "INDICE") 
+![alt text](hhttps://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/indice.PNG "INDICE") 
 
-![alt text](https://github.com/hcgtech/07.25_EX_FN_PRECE_REG/blob/main/images/cuerpo.PNG "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/cuerpo.PNG "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/07.25_EX_FN_PRECE_REG/blob/main/images/horizontal.PNG "HORIZONTAL CON IMAGEN")
+![alt text](https://github.com/anerai/SIMULADOR_EXAMEN_FINAL_PRECE_2025/blob/main/images/horizontal.PNG "HORIZONTAL CON IMAGEN")
 ---
 
 ## 2. Instrucciones para Desarrollo e Implementación
